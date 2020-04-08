@@ -7,4 +7,4 @@ You can run the py file normally as you would for any python script.
 
 If you want to increase the frames processed per second or if you face any increase in time to process the frames when you applied it over your project, you can always build opencv to run on your gpu. 
 
-# Note : opencv does not run on gpu by default. You'll have to build one to run on your gpu from source. Refer the following link: https://jamesbowley.co.uk/build-opencv-4-0-0-with-cuda-10-0-and-intel-mkl-tbb-in-windows/
+### Note : opencv does not run on gpu by default. You'll have to build one to run on your gpu from source. Refer the following link: https://jamesbowley.co.uk/build-opencv-4-0-0-with-cuda-10-0-and-intel-mkl-tbb-in-windows/
