@@ -6,6 +6,8 @@ The code is written using opencv and face_recognition libraries. Python 3.7 is u
 The repo contains two files which basically have the same code. One is the python notebook file (.ipynb) and another python(.py) file.
 You can run the py file normally as you would for any python script.
 
+face_blur blurs the faces in the live video stream. 
+
 face_blur_allFaces blurs out all the faces in the video. Input: Name of the video file
 ![](all_blur.gif)
 
