@@ -10,6 +10,7 @@ face_blur_allFaces blurs out all the faces in the video. Input: Name of the vide
 ![](all_blur.gif)
 
 face_blue_selectedFace blurs out only the faces that are present in the video that are in the input image. Input name of the video file and the name of the image
+
 ![](robert_blur.gif)
 
 If you want to increase the frames processed per second or if you face any increase in time to process the frames when you applied it over your project, you can always build opencv to run on your gpu. 
